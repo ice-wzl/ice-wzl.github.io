@@ -17,45 +17,58 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: SANs Institute
+  title-url: https://sans.org/
+  date: Nov 2022 - Present
+  subtitle: Teaching Assistant
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: GASF
+    - tag: GREM
+    - tag: GCIH
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: GIAC
+  title-url: https://giac.org/
+  date: Apr 2022 - Present
+  subtitle: Advisory Board Member
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Cyber National Mission Force
+  title-url: https://www.cybercom.mil/Media/News/Article/3206393/cyber101-cyber-mission-force/#:~:text=The%20Cyber%20Mission%20Force%20(CMF,defense%20of%20U.S.%20national%20interests.
+  date: May 2021 - Present
+  subtitle: Exploitation Analyst
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Malware Reverse Engineering
+    - tag: Red Teaming
+    - tag: Host Forensics
+    - tag: Network Forensics
+    - tag: Tool Testing
+    - tag: Python
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: U.S. Army Cyber School
+  title-url: https://cybercoe.army.mil/CYBERSCH/index.html
+  date: Apr 2020 - May 2021
+  subtitle: Cyberspace Operations Officer
+  tags:
+    - tag: Network Forensics
+    - tag: Host Forensics
+    - tag: Networking
+    - tag: Programming
+    - tag: Red Teaming
+  timeline-side: left
+
+- title: The Basic School
+  title-url: https://www.trngcmd.marines.mil/Northeast/The-Basic-School/
+  date: Sept 2019 - Apr 2020
+  subtitle: Cyberspace Operations Officer
+  tags:
+    - tag: Leadership
+    - tag: Marine Corps
+  timeline-side: right
+
+- title: Rutger University 
+  title-url: https://rutgers.edu/
+  date: 2016 - 2019
+  subtitle: Bachlors of Arts 
   timeline-side: left
