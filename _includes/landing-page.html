@@ -52,7 +52,7 @@
               <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#codepen" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">CodePen</span>
+          <span class="label">HackTheBox</span>
         </a>
       {% endif %}
 
@@ -68,7 +68,7 @@
               <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#dev" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">DEV</span>
+          <span class="label">TryHackMe</span>
         </a>
       {% endif %}
 
@@ -103,6 +103,23 @@
           <span class="label">Twitter</span>
         </a>
       {% endif %}
+      
+      {% if site.medium_username != null %}
+        <a class="social-link medium" aria-label="My Blog" target="_blank"
+          rel="noreferrer" href="https://{{site.medium_username}}.medium.com"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#medium" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Medium</span>
+        </a>
+      {% endif %}
+
     </div>
   </div>
 </div>
